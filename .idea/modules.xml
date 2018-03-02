@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LeifengLib.iml" filepath="$PROJECT_DIR$/LeifengLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leifenglib/leifenglib.iml" filepath="$PROJECT_DIR$/leifenglib/leifenglib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leifenglibs/leifenglib.iml" filepath="$PROJECT_DIR$/leifenglibs/leifenglib.iml" />
     </modules>
   </component>
 </project>
