@@ -25,3 +25,15 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+ext.versions = [
+        compileSdkVersion: 26,
+
+        minSdkVersion    : 17,
+        targetSdkVersion : 22,
+
+        versionCode      : 5,
+        versionName      : '1.0.4',
+
+        supportLibary    : '26.0.0'// 高于此版本design就会有那个滑动bug，例如26.0.0
+]
